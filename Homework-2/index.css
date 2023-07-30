@@ -1,0 +1,73 @@
+.box {
+    width: 1800px; 
+    height: 350px;    
+    background-color: white;
+    margin:100px auto 0 auto; 
+}
+
+.container1 {
+    width: 1700px;      
+    background-color:white;
+}
+
+.container2 {
+    width: 1700px;
+    height: 75px;      
+    background-color: rgb(243, 242, 242);
+    margin-top:3px;
+    
+}
+
+.searchBar {
+    width: 30%;
+    height: 22px;
+}
+
+.container3 {
+    width: 650px;
+    height: 100px;      
+    background: rgb(153, 227, 240);
+    margin-top:3px; 
+    margin-right:3px;
+    float:left;  
+    text-align: center; 
+    padding-top:20px;   
+}
+
+.container4 {
+    width: 400px;
+    height: 100px;      
+    background: rgb(153, 227, 240);  
+    margin-top:3px; 
+    margin-right:3px;  
+    float:left;
+    text-align: center; 
+    padding-top:20px;   
+}
+
+.container5 {
+    width: 644px;
+    height: 100px;      
+    background-color: rgb(153, 227, 240);  
+    margin-top:3px; 
+    float:left;
+    text-align: center;
+    padding-top:20px;     
+}
+
+.fontStyle {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size:18px ;   
+}
+
+.fontStyle2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+}
+
+
+
+
+
+
